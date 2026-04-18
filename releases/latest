@@ -1,0 +1,17 @@
+{
+  "url": "https://api.github.com/repos/qlgfwz/SPEEDddm/releases/latest",
+  "html_url": "https://github.com/qlgfwz/SPEEDddm/releases/tag/v2.0.8",
+  "tag_name": "v2.0.8",
+  "name": "v2.0.8",
+  "draft": false,
+  "prerelease": false,
+  "published_at": "2026-04-18T12:00:00Z",
+  "assets": [
+    {
+      "name": "SPEEDddm_android_2.0.8.apk",
+      "browser_download_url": "https://qlyyz.top/SPEEDddm_2.0.8.apk",
+      "content_type": "application/vnd.android.package-archive"
+    }
+  ],
+  "body": "更新内容：\n1. 优化播放速度\n2. 修复已知问题\n3. 提升稳定性"
+}
